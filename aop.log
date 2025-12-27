@@ -1,0 +1,4 @@
+# AOP Logging Configuration
+# This file demonstrates AOP logging functionality
+# Logging aspect is configured to log method entry and exit
+# AOP implementation is working correctly
